@@ -114,7 +114,7 @@ const experiences = [
         date: "October 2019 - February 2021",
         points: [
             "Developing and maintaining web applications using Angular.js, C# & SQL.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+            "Collaborating with cross-functional teams including Quality Assurance, Product Managers, Product Owners etc, as well as other developers using Jira(Agile approach).",
             "Implementing responsive design and ensuring cross-browser compatibility.",
             "Participating in code reviews and providing constructive feedback to other developers.",
         ],
@@ -128,7 +128,7 @@ const experiences = [
         date: "February 2021 - July 2022",
         points: [
             "Redesigned a monolith to micro Services using Nuxt.js, C#, to adhere to better principles.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+            "Collaborating with cross-functional teams including Quality Assurance, Product Managers, Product Owners etc, as well as other developers using Jira(Agile approach).",
             "Implementing responsive design and ensuring cross-browser compatibility.",
             "Participating in code reviews and providing constructive feedback to other developers.",
         ],
