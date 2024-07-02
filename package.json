@@ -1,6 +1,6 @@
 {
-  "name": "3d_portfolio",
-  "homepage": "https://donovanhjd.github.io/Portfolio",
+  "name": "portfolio",
+  "homepage": "https://donovanhjd.github.io/Portfolio/src/main.jsx",
   "private": true,
   "version": "0.0.0",
   "type": "module",
