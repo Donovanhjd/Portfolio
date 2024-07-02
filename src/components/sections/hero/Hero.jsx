@@ -11,7 +11,7 @@ const Hero = () => {
                     loop
                     className="rotate-180 absolute top-[-340px] md:top-[-385px] h-full w-full object-cover"
                 >
-                    <source src="/blackhole.webm" type="video/webm"/>
+                    <source src="https://donovanhjd.github.io/Portfolio/blackhole.webm" type="video/webm"/>
                 </video>
 
                 <StarsCanvas/>
